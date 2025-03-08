@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
           ])
         ),
         child: Center(
-          child: Text("Build 3"),
+          child: Text("Build 4"),
         ),
       ),
     );
